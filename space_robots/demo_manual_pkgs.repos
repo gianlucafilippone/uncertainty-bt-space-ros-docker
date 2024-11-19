@@ -1,7 +1,7 @@
 repositories:
   demos:
     type: git
-    url: https://github.com/space-ros/demos.git
+    url: https://github.com/gianlucafilippone/spaceros-demos.git
     version: main
   gz_ros2_control:
     type: git
@@ -40,3 +40,7 @@ repositories:
     url: https://github.com/swri-robotics/gps_umd.git
     path: gps_msgs
     version: 113782d
+  behaviortree_cpp_v3:
+    type: git
+    url: https://github.com/BehaviorTree/BehaviorTree.CPP.git
+    version: 3.8.7
